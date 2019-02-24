@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Techy Podcast</title>
+    <googleplay:author>Mohammed Sajadh</googleplay:author>
+    <description>Podcast for techies to learn technologies like Java, Node JS, Microservices, Spring etc...</description>
+    <googleplay:image href="https://sajadhaja.github.io/images/icons/logo.png"/>
+    <language>en-us</language>
+    <link>https://sajadhaja.github.io</link>
+    <item>
+      <title>Techy sample podcast 1</title>
+      <description>Testing podcast in google play and Itunes - 1</description>
+      <pubDate>Sun, 24 Feb 2019 12:00:00 GMT</pubDate>
+      <enclosure url="https://sajadhaja.github.io/audio/techy-sample-1.mp3"
+                 type="audio/mp3" length="443926"/>
+      <itunes:duration>00:27</itunes:duration>
+      <guid>techy-episode-no-1</guid>
+    </item>
+    <item>
+      <title>Techy sample podcast 2</title>
+      <description>Testing podcast in google play and Itunes - 2</description>
+      <pubDate>Sun, 24 Feb 2019 12:00:00 GMT</pubDate>
+      <enclosure url="https://sajadhaja.github.io/audio/techy-sample-2.mp3"
+                 type="audio/mp3" length="725240 "/>
+      <itunes:duration>00:45</itunes:duration>
+      <guid>techy-episode-no-1</guid>
+    </item>
+  </channel>
+</rss>
