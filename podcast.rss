@@ -6,7 +6,7 @@
     <googleplay:author>Mohammed Sajadh</googleplay:author>
     <itunes:category text="Music" />    
     <itunes:explicit>no</itunes:explicit>>
-    <itunes:image href="https://sajadhaja.github.io/images/techy.png"></itunes:image>
+    <itunes:image href="https://sajadhaja.github.io/images/techy.png">https://sajadhaja.github.io/images/techy.png</itunes:image>
     <itunes:summary><![CDATA[<a href="https://sajadhaja.github.io/">Sajadh Techy</a>]]></itunes:summary>
     <description>Sajadh Tips Aydin Podcast for techies to learn technologies like Java, Node JS, Microservices, Spring etc...</description>
     <googleplay:image href="https://sajadhaja.github.io/images/icons/logo.png"/>
