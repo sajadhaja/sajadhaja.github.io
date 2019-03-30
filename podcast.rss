@@ -8,16 +8,15 @@
     <language>ml</language>    <!-- two-letter ISO 639-1 code for Malayalam -->
     <link>https://sajadhaja.github.io</link>
     <!-- google play configs -->
-    <googleplay:author>Velicham Onlive</googleplay:author>
-    <googleplay:image href="https://sajadhaja.github.io/images/icons/ic_velicham.png"/>
+    <googleplay:author>Sajadh Aydin</googleplay:author>
+    <googleplay:image href="https://sajadhaja.github.io/images/icons/techy.png"/>
     <googleplay:category text="Religion &amp; Spirituality"/>
     <!-- itunes configs -->
-    <itunes:author>Velicham Onlive</itunes:author>
-    <itunes:image href="https://sajadhaja.github.io/images/icons/ic_velicham.png"/>
+    <itunes:author>Sajadh Aydin</itunes:author>
+    <itunes:image href="https://sajadhaja.github.io/images/icons/techy.png"/>
     <itunes:category text="Religion &amp; Spirituality" />
     <!-- podcats audio as items -->
     <!-- BEGIN: chapter 0 - introduction -->
-    <!--  -->
     <item>
       <title>0. ആമുഖം - വെളിച്ചം ഖുർആൻ ദർസ്</title>
       <description>ആമുഖം - വെളിച്ചം ഖുർആൻ ദർസ്</description>
@@ -73,7 +72,8 @@
       <itunes:duration>547</itunes:duration>
       <pubDate>Wednesday, 27 Mar ‎2019 ‏‎12:00:00 GMT</pubDate>
       <guid>6-vqd-podcast-intro</guid>
-    </item>    <!--  -->
+    </item>
+    <!--  -->
     <item>
       <title>7.ഖുർആനെ സമീപിക്കുമ്പോൾ</title>
       <description>ഖുർആനെ സമീപിക്കുമ്പോൾ</description>
@@ -81,7 +81,8 @@
       <itunes:duration>455</itunes:duration>
       <pubDate>Wednesday, 27 Mar ‎2019 ‏‎12:00:00 GMT</pubDate>
       <guid>7-vqd-podcast-intro</guid>
-    </item>    <!--  -->
+    </item>
+    <!--  -->
     <item>
       <title>8.അറബി അക്ഷരങ്ങൾ</title>
       <description>അറബി അക്ഷരങ്ങൾ</description>
@@ -89,7 +90,8 @@
       <itunes:duration>403</itunes:duration>
       <pubDate>Wednesday, 27 Mar ‎2019 ‏‎12:00:00 GMT</pubDate>
       <guid>8-vqd-podcast-intro</guid>
-    </item>    <!--  -->
+    </item>
+    <!--  -->
     <item>
       <title>9.തജ് വീദ് (ഖുർആൻ പാരായണ നിയമങ്ങൾ)</title>
       <description>തജ് വീദ് (ഖുർആൻ പാരായണ നിയമങ്ങൾ)</description>
@@ -97,118 +99,132 @@
       <itunes:duration>495</itunes:duration>
       <pubDate>Wednesday, 27 Mar ‎2019 ‏‎12:00:00 GMT</pubDate>
       <guid>9-vqd-podcast-intro</guid>
-      <!-- END: chapter 0 - introduction -->
-      <!-- ==================================================================================== -->
-      <!-- BEGIN: chapter 1 - fathiha -->
-    </item>    <!--  -->
+    </item>
+    <!-- END: chapter 0 - introduction -->
+    <!-- ==================================================================================== -->
+    <!-- BEGIN: chapter 1 - fathiha -->
+    <!--  -->
     <item>
       <title>10. സൂറ അൽ ഫാതിഹ - ഇസ്തിആദത്ത് (രക്ഷ തേടൽ)</title>
       <description>സൂറ അൽ ഫാതിഹ - ഇസ്തിആദത്ത് (രക്ഷ തേടൽ)</description>
-      <enclosure url="https://sajadhaja.github.io/audios/1-fathiha/10.%20സൂറ%20അൽ%20ഫാതിഹ%20-%20ഇസ്തിആദത്ത്%20(രക്ഷ%20തേടൽ).m4a" type="audio/m4a" length="398"/>
+      <enclosure url="https://sajadhaja.github.io/audios/1-fathiha/1-vqd-podcast-unit001.m4a" type="audio/m4a" length="398"/>
       <itunes:duration>398</itunes:duration>
       <pubDate>Wednesday, 27 Mar ‎2019 ‏‎12:00:00 GMT</pubDate>
       <guid>1-vqd-podcast-unit001</guid>
-    </item>    <!--  -->
+    </item>
+    <!--  -->
     <item>
       <title>11. സൂറ അൽ ഫാതിഹ - 'അഊദു..' പാരായണ രീതി, നിയമങ്ങൾ</title>
       <description>സൂറ അൽ ഫാതിഹ - 'അഊദു..' പാരായണ രീതി, നിയമങ്ങൾ</description>
-      <enclosure url="https://sajadhaja.github.io/audios/1-fathiha/11.%20സൂറ%20അൽ%20ഫാതിഹ%20-%20'അഊദു..'%20പാരായണ%20രീതി,%20നിയമങ്ങൾ.m4a" type="audio/m4a" length="427"/>
+      <enclosure url="https://sajadhaja.github.io/audios/1-fathiha/2-vqd-podcast-unit001.m4a" type="audio/m4a" length="427"/>
       <itunes:duration>427</itunes:duration>
       <pubDate>Wednesday, 27 Mar ‎2019 ‏‎12:00:00 GMT</pubDate>
       <guid>2-vqd-podcast-unit001</guid>
-    </item>    <!--  -->
+    </item>
+    <!--  -->
     <item>
       <title>12. സൂറ അൽ ഫാതിഹ - ബസ്മല (ബിസ്മി)</title>
       <description>സൂറ അൽ ഫാതിഹ - ബസ്മല (ബിസ്മി)</description>
-      <enclosure url="https://sajadhaja.github.io/audios/1-fathiha/12.%20സൂറ%20അൽ%20ഫാതിഹ%20-%20ബസ്മല%20(ബിസ്മി).m4a" type="audio/m4a" length="697"/>
+      <enclosure url="https://sajadhaja.github.io/audios/1-fathiha/3-vqd-podcast-unit001.m4a" type="audio/m4a" length="697"/>
       <itunes:duration>697</itunes:duration>
       <pubDate>Wednesday, 27 Mar ‎2019 ‏‎12:00:00 GMT</pubDate>
       <guid>3-vqd-podcast-unit001</guid>
-    </item>    <!--  -->
+    </item>
+    <!--  -->
     <item>
       <title>13. ബിസ്മിയുടെ പാരായണം</title>
       <description>ബിസ്മിയുടെ പാരായണം</description>
-      <enclosure url="https://sajadhaja.github.io/audios/1-fathiha/13.%20ബിസ്മിയുടെ%20പാരായണം.m4a" type="audio/m4a" length="610"/>
+      <enclosure url="https://sajadhaja.github.io/audios/1-fathiha/4-vqd-podcast-unit001.m4a" type="audio/m4a" length="610"/>
       <itunes:duration>610</itunes:duration>
       <pubDate>Wednesday, 27 Mar ‎2019 ‏‎12:00:00 GMT</pubDate>
       <guid>4-vqd-podcast-unit001</guid>
-    </item>    <!--  -->
+    </item>
+    <!--  -->
     <item>
       <title>14. ഫാതിഹയുടെ നാമകരണം (നാമങ്ങൾ)</title>
       <description>ഫാതിഹയുടെ നാമകരണം (നാമങ്ങൾ)</description>
-      <enclosure url="https://sajadhaja.github.io/audios/1-fathiha/14.%20ഫാതിഹയുടെ%20നാമകരണം%20(നാമങ്ങൾ).m4a" type="audio/m4a" length="557"/>
+      <enclosure url="https://sajadhaja.github.io/audios/1-fathiha/5-vqd-podcast-unit001.m4a" type="audio/m4a" length="557"/>
       <itunes:duration>557</itunes:duration>
       <pubDate>Wednesday, 27 Mar ‎2019 ‏‎12:00:00 GMT</pubDate>
       <guid>5-vqd-podcast-unit001</guid>
-    </item>    <!--  -->
+    </item>
+    <!--  -->
     <item>
       <title>15. ഫാതിഹയുടെ പാരായണം</title>
       <description>15. ഫാതിഹയുടെ പാരായണം</description>
-      <enclosure url="https://sajadhaja.github.io/audios/1-fathiha/15.%20ഫാതിഹയുടെ%20പാരായണം.m4a" type="audio/m4a" length="594"/>
+      <enclosure url="https://sajadhaja.github.io/audios/1-fathiha/6-vqd-podcast-unit001.m4a" type="audio/m4a" length="594"/>
       <itunes:duration>594</itunes:duration>
       <pubDate>Wednesday, 27 Mar ‎2019 ‏‎12:00:00 GMT</pubDate>
       <guid>6-vqd-podcast-unit001</guid>
-    </item>    <!--  -->
+    </item>
+    <!--  -->
     <item>
       <title>16. സൂറ അൽ ഫാതിഹ - ആയത്ത് 2 ആൽഹംദുലില്ലാഹ്</title>
       <description>സൂറ അൽ ഫാതിഹ - ആയത്ത് 2 ആൽഹംദുലില്ലാഹ്</description>
-      <enclosure url="https://sajadhaja.github.io/audios/1-fathiha/16.%20സൂറ%20അൽ%20ഫാതിഹ%20-%20ആയത്ത്%202%20ആൽഹംദുലില്ലാഹ്.m4a" type="audio/m4a" length="683"/>
+      <enclosure url="https://sajadhaja.github.io/audios/1-fathiha/7-vqd-podcast-unit001.m4a" type="audio/m4a" length="683"/>
       <itunes:duration>683</itunes:duration>
       <pubDate>Wednesday, 27 Mar ‎2019 ‏‎12:00:00 GMT</pubDate>
       <guid>7-vqd-podcast-unit001</guid>
-    </item>    <!--  -->
+    </item>
+    <!--  -->
     <item>
       <title>17. സൂറ അൽ ഫാതിഹ - ആയത്ത് 2 റബ്ബിൽ ആലമീൻ</title>
       <description>സൂറ അൽ ഫാതിഹ - ആയത്ത് 2 റബ്ബിൽ ആലമീൻ</description>
-      <enclosure url="https://sajadhaja.github.io/audios/1-fathiha/17.%20സൂറ%20അൽ%20ഫാതിഹ%20-%20ആയത്ത്%202%20റബ്ബിൽ%20ആലമീൻ.m4a" type="audio/m4a" length="481"/>
+      <enclosure url="https://sajadhaja.github.io/audios/1-fathiha/8-vqd-podcast-unit001.m4a" type="audio/m4a" length="481"/>
       <itunes:duration>481</itunes:duration>
       <pubDate>Wednesday, 27 Mar ‎2019 ‏‎12:00:00 GMT</pubDate>
       <guid>8-vqd-podcast-unit001</guid>
-    </item>    <!--  -->
+    </item>
+    <!--  -->
     <item>
       <title>18. സൂറ അൽ ഫാതിഹ - ആയത്ത് 3</title>
       <description>സൂറ അൽ ഫാതിഹ - ആയത്ത് 3</description>
-      <enclosure url="https://sajadhaja.github.io/audios/1-fathiha/18.%20സൂറ%20അൽ%20ഫാതിഹ%20-%20ആയത്ത്%203.m4a" type="audio/m4a" length="621"/>
+      <enclosure url="https://sajadhaja.github.io/audios/1-fathiha/9-vqd-podcast-unit001.m4a" type="audio/m4a" length="621"/>
       <itunes:duration>621</itunes:duration>
       <pubDate>Wednesday, 27 Mar ‎2019 ‏‎12:00:00 GMT</pubDate>
       <guid>9-vqd-podcast-unit001</guid>
-    </item>    <!--  -->
+    </item>
+    <!--  -->
     <item>
       <title>19. സൂറ അൽ ഫാതിഹ - ആയത്ത് 4</title>
       <description>സൂറ അൽ ഫാതിഹ - ആയത്ത് 4</description>
-      <enclosure url="https://sajadhaja.github.io/audios/1-fathiha/19.%20സൂറ%20അൽ%20ഫാതിഹ%20-%20ആയത്ത്%204.m4a" type="audio/m4a" length="674"/>
+      <enclosure url="https://sajadhaja.github.io/audios/1-fathiha/10-vqd-podcast-unit001.m4a" type="audio/m4a" length="674"/>
       <itunes:duration>674</itunes:duration>
       <pubDate>Wednesday, 27 Mar ‎2019 ‏‎12:00:00 GMT</pubDate>
       <guid>10-vqd-podcast-unit001</guid>
-    </item>    <!--  -->
+    </item>
+    <!--  -->
     <item>
       <title>20. സൂറ അൽ ഫാതിഹ - ആയത്ത് 5 - ഇയ്യാക നഅ'ബുദു</title>
       <description>സൂറ അൽ ഫാതിഹ - ആയത്ത് 5 - ഇയ്യാക നഅ'ബുദു</description>
-      <enclosure url="https://sajadhaja.github.io/audios/1-fathiha/20.%20സൂറ%20അൽ%20ഫാതിഹ%20-%20ആയത്ത്%205%20-%20ഇയ്യാക%20നഅ'ബുദു.m4a" type="audio/m4a" length="810"/>
+      <enclosure url="https://sajadhaja.github.io/audios/1-fathiha/11-vqd-podcast-unit001.m4a" type="audio/m4a" length="810"/>
       <itunes:duration>810</itunes:duration>
       <pubDate>Wednesday, 27 Mar ‎2019 ‏‎12:00:00 GMT</pubDate>
       <guid>11-vqd-podcast-unit001</guid>
-    </item>    <!--  -->
+    </item>
+    <!--  -->
     <item>
       <title>21. സൂറ അൽ ഫാതിഹ - ആയത്ത് 5 - വ ഇയ്യാക നസ്ഥഈൻ</title>
       <description>സൂറ അൽ ഫാതിഹ - ആയത്ത് 5 - വ ഇയ്യാക നസ്ഥഈൻ</description>
-      <enclosure url="https://sajadhaja.github.io/audios/1-fathiha/21.%20സൂറ%20അൽ%20ഫാതിഹ%20-%20ആയത്ത്%205%20-%20വ%20ഇയ്യാക%20നസ്ഥഈൻ.m4a" type="audio/m4a" length="833"/>
+      <enclosure url="https://sajadhaja.github.io/audios/1-fathiha/12-vqd-podcast-unit001.m4a" type="audio/m4a" length="833"/>
       <itunes:duration>833</itunes:duration>
       <pubDate>Wednesday, 27 Mar ‎2019 ‏‎12:00:00 GMT</pubDate>
       <guid>12-vqd-podcast-unit001</guid>
-    </item>    <!--  -->
+    </item>
+    <!--  -->
     <item>
       <title>22. സൂറ അൽ ഫാതിഹ - ആയത്ത് 6</title>
       <description>സൂറ അൽ ഫാതിഹ - ആയത്ത് 6</description>
-      <enclosure url="https://sajadhaja.github.io/audios/1-fathiha/22.%20സൂറ%20അൽ%20ഫാതിഹ%20-%20ആയത്ത്%206.m4a" type="audio/m4a" length="638"/>
+      <enclosure url="https://sajadhaja.github.io/audios/1-fathiha/13-vqd-podcast-unit001.m4a" type="audio/m4a" length="638"/>
       <itunes:duration>638</itunes:duration>
       <pubDate>Wednesday, 27 Mar ‎2019 ‏‎12:00:00 GMT</pubDate>
       <guid>13-vqd-podcast-unit001</guid>
-    </item>    <!--  -->
+    </item>
+    <!--  -->
     <item>
       <title>23. സൂറ അൽ ഫാതിഹ - ആയത്ത് 7</title>
       <description>സൂറ അൽ ഫാതിഹ - ആയത്ത് 7</description>
-      <enclosure url="https://sajadhaja.github.io/audios/1-fathiha/23.%20സൂറ%20അൽ%20ഫാതിഹ%20-%20ആയത്ത്%207.m4a" type="audio/m4a" length="820"/>
+      <enclosure url="https://sajadhaja.github.io/audios/1-fathiha/14-vqd-podcast-unit001.m4a" type="audio/m4a" length="820"/>
       <itunes:duration>820</itunes:duration>
       <pubDate>Wednesday, 27 Mar ‎2019 ‏‎12:00:00 GMT</pubDate>
       <guid>14-vqd-podcast-unit001</guid>
